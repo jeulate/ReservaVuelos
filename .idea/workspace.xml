@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df7c402e-aada-47ae-8e90-22634fcce007" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReservaVuelos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FReservaVuelo.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FReservaVuelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jcalendar-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pDecorator/BaseNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pDecorator/ConfigurationNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pDecorator/INotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pDecorator/MailNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pDecorator/PDFNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pDecorator/SMSNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/CreatorVueloCochabamba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/CreatorVueloLapaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/CreatorVueloTarija.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/ECity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/IDestinoVuelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/VueloCochabamba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/VueloLaPaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pFactoryMethod/VueloTarija.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pStrategy/CalculadoraTarifa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pStrategy/ETarifa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pStrategy/ITarifaBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pStrategy/TarifaBolvianos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pStrategy/TarifaDollars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pStrategy/TarifaPesosArgentinos.java" afterDir="false" />
-    </list>
+    <list default="true" id="df7c402e-aada-47ae-8e90-22634fcce007" name="Changes" comment="Proyecto Reserva de Vuelos con Patrones de Diseño Factory Method, Decorator y Strategy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,11 +59,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701242863093</updated>
-      <workItem from="1701242864133" duration="4530000" />
+      <workItem from="1701242864133" duration="4882000" />
     </task>
+    <task id="LOCAL-00001" summary="Proyecto Reserva de Vuelos con Patrones de Diseño Factory Method, Decorator y Strategy">
+      <created>1701252647855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701252647855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto Reserva de Vuelos con Patrones de Diseño Factory Method, Decorator y Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto Reserva de Vuelos con Patrones de Diseño Factory Method, Decorator y Strategy" />
   </component>
 </project>
